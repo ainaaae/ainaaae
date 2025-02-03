@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently wokring on my Bachelor Project among other stuff.<br>Studying Applied Computer Science at OsloMet University.<br><br>Actively looking for work within IT.
+I'm currently working on my Bachelor Project among other stuff.<br>Studying Applied Computer Science at OsloMet University.<br><br>Actively looking for work within IT.
 
 
 ## 🌐 Socials:
