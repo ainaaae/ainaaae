@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on my Bachelor Project among other stuff.<br>Studying Applied Computer Science at OsloMet University.<br><br>Actively looking for work within IT.
+👋 Hi there! I'm Aina, currently studying Applied Computer Science at OsloMet University, with a specialization in UX design. 
+I'm passionate about creating user-friendly and accessible digital experiences.
+
+Right now, I'm diving deep into my bachelor's project, exploring innovative solutions and pushing the boundaries of design and technology.
+
+On my GitHub, you'll find a diverse mix of projects showcasing my skills. 
+Whether it's web development or software engineering, I'm always up for a new challenge and eager to collaborate.
+
+Feel free to explore my repositories and connect with me. Let's create something amazing together!
 
 
 ## 🌐 Socials:
